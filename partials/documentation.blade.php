@@ -5,14 +5,15 @@
     <h4>Documentation</h4>
     <p style="font-size:18px; margin-top:20px;" align="left">
      Please refer 
+     <p>
      <a href="http://itp.curtin.edu.au/research/">Convergent Close-Coupling (CCC) method </a> 
+     <p>
      <a href="https://github.com/jesusG-V/xchemQC">XChem: The ab initio Solution for Multichannel Scattering Problems </a>
+     <p>
      <a href="https://trecx.physik.lmu.de/home.html"> tRecX: time-dependent Recursive indeXing </a>
+     <p>
      <a href="http://cpc.cs.qub.ac.uk/summaries/ADWY"> Atomic continuum processes using the B-spline R-matrix method </a>
-
-
-
-
+     <p>
 
    for more information.
 
