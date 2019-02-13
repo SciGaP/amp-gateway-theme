@@ -1,4 +1,4 @@
-<title>Saver-X Gateway</title>
+<title>AMPGateway For Atomic and Molecular Physics and Optics</title>
 <div id="navbar" class="navbar">
       <div class="container-fluid">
         <div class="navbar-header">
@@ -9,7 +9,7 @@
           </button>
           <a class="navbar-brand scroll" href="{{ URL::to('/') }}">
             <!-- SRA Logo Made with LogoMakr.com -->
-            <span class="lsu-logo"><img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/saverx-header-logo.png"/></span>
+            <span class="lsu-logo"><img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/amp-header-logo.png"/></span>
           </a>
         </div>
         <div class="collapse navbar-collapse">
