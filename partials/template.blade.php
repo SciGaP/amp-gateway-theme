@@ -5,7 +5,7 @@
       </p>
       <hr/>
 
-  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/amp-banner.png" width="80%" height="100%"/>
+  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/amp-banner.png" width="100%" height="20%"/>
   <!--
     <h1>Hero Image</h1>
     <h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
@@ -32,7 +32,7 @@
    <div class="col-md-offset-1 col-md-8 scigap-info">
       <h3>AMPGateway Software for Atomic and Molecular Physics and Optics </h3>
       <p style="color:#cccccc;">
-      <h2>Welcome!</h2>
+      <!-- h2>Welcome!</h2 -->
       </p>
       <hr/>
       <!-- <button class="btn btn-primary btn-lg">Accelerate Research</button> -->
