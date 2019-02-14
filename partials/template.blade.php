@@ -1,4 +1,10 @@
 <div>
+  <h1>AMPGateway for Atomic and Molecular Physics</h1>
+      <p style="color:#cccccc;">
+      <h2>Welcome!</h2>
+      </p>
+      <hr/>
+
   <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/amp-banner.png" width="100%" height="50%"/>
   <!--
     <h1>Hero Image</h1>
@@ -23,8 +29,8 @@
       <hr/>
     </div>
    -->
-    <div class="col-md-offset-1 col-md-8 scigap-info">
-      <h1>AMPGateway for Atomic and Molecular Physics</h1>
+   <div class="col-md-offset-1 col-md-8 scigap-info">
+      <h3>AMPGateway Software for Atomic and Molecular Physics and Optics </h3>
       <p style="color:#cccccc;">
       <h2>Welcome!</h2>
       </p>
