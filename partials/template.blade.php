@@ -1,5 +1,5 @@
 <div>
-  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/amp-banner.png" width="100%"/>
+  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/amp-banner.png" width="100%" height="50%"/>
   <!--
     <h1>Hero Image</h1>
     <h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
@@ -7,7 +7,7 @@
     <p><a class="btn btn-primary btn-large">Learn more</a></p>
     -->
 </div>
-<div class="col-md-12 breathing-space">
+<!-- div class="col-md-12 breathing-space" -->
   <div class="row">
     <!-- 
       <div class="col-md-offset-1 col-md-2">
