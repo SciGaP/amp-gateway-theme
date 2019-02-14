@@ -6,7 +6,7 @@
 
         <p style="font-size:18px; margin-top:20px;" align="left">
         It is critical to have our work cited so we can continue to develop exciting tools for you.
-        Please be sure to not only cite our gateway, https://ampgateway.org/. 
+        Please be sure cite our gateway, https://ampgateway.org/. 
 
           <!-- but to also cite <a href="">Our Publication</a>. -->
         </p>
