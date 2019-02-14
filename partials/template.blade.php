@@ -1,11 +1,11 @@
 <div>
-  <h1>AMPGateway for Atomic and Molecular Physics</h1>
+  <h1> Welcome to AMPGateway for Atomic and Molecular Physics</h1>
       <p style="color:#cccccc;">
-      <h2>Welcome!</h2>
+      <!-- h2>Welcome!</h2 -->
       </p>
       <hr/>
 
-  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/amp-banner.png" width="100%" height="50%"/>
+  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/amp-banner.png" width="50%" height="50%"/>
   <!--
     <h1>Hero Image</h1>
     <h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
