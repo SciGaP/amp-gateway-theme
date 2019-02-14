@@ -9,7 +9,8 @@
 </div>
 <div class="col-md-12 breathing-space">
   <div class="row">
-    <div class="col-md-offset-1 col-md-2">
+    <!-- 
+      <div class="col-md-offset-1 col-md-2">
       <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/amp-logo.png" width="100%"/>
       <hr/>
       <a href="{{ URL::to('/') }}/login">
@@ -21,6 +22,7 @@
       </a>
       <hr/>
     </div>
+   -->
     <div class="col-md-offset-1 col-md-8 scigap-info">
       <h1>AMPGateway for Atomic and Molecular Physics</h1>
       <p style="color:#cccccc;">
