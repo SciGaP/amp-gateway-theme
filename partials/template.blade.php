@@ -37,7 +37,10 @@
       <hr/>
       <!-- <button class="btn btn-primary btn-lg">Accelerate Research</button> -->
       <p style="font-size:18px; margin-top:20px;">
-         Bsplines, CCC, tRecX, XChem Software suites provide methods and algorithms to compute scattering of light on atomic and molecular systems. 
+         B-Spline R_matrix (BSR), Convergent Close Coupling (CCC), tRecX, XChem Software suites provide methods and 
+         algorithms to compute electron scattering cross sections from atomic and molecular targets and the 
+         excitation and ionization of such systems exposed to time independent and time dependent electromagnetic 
+         fields. 
       </p>
       <p style="font-size:18px; margin-top:20px;">
       
