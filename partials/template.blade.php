@@ -40,7 +40,7 @@
          B-Spline R_matrix (BSR), Convergent Close Coupling (CCC), tRecX, XChem Software suites provide methods and 
          algorithms to compute electron scattering cross sections from atomic and molecular targets and the 
          excitation and ionization of such systems exposed to time independent and time dependent electromagnetic 
-         fields. 
+         fields using ab inito electronic structure methods. 
       </p>
       <p style="font-size:18px; margin-top:20px;">
       
