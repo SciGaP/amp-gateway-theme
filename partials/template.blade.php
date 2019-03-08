@@ -1,5 +1,5 @@
 <div>
-  <h1> Welcome to AMPGateway for Atomic and Molecular Physics</h1>
+  <h1>      Welcome to AMPGateway for Atomic and Molecular Physics</h1>
       <p style="color:#cccccc;">
       <!-- h2>Welcome!</h2 -->
       </p>
@@ -37,14 +37,16 @@
       <hr/>
       <!-- <button class="btn btn-primary btn-lg">Accelerate Research</button> -->
       <p style="font-size:18px; margin-top:20px;">
-         B-Spline R_matrix (BSR), Convergent Close Coupling (CCC), tRecX, XChem Software suites provide methods and 
-         algorithms to compute electron scattering cross sections from atomic and molecular targets and the 
-         excitation and ionization of such systems exposed to time independent and time dependent electromagnetic 
-         fields. 
+         The B-Spline R_matrix (BSR), Convergent Close Coupling (CCC), and UK R-Matrix software suites provide methods 
+         and algorithms to compute electron scattering cross sections and perturbative photo-electron cross sections
+         from atomic and molecular targets.  Process include excitation, ionization, photoionization and photodetachment
+         in first order perturbation theory.  The XChem and tRecX software suites extend the capabilities to 
+         time dependent, intense  electromagnetic fields and enable studies of ultrafast processes in the UV and IR 
+         spectrum.  
       </p>
       <p style="font-size:18px; margin-top:20px;">
       
-        The codes and deployed on XSEDE HPC systems such as Comet, Stampede2 and Bridges.
+        The codes are deployed on XSEDE HPC systems such as Comet, Stampede2 and Bridges.
       </p>
       <div class="col-md-6 credits">
         <div class="thumbnail" style="border:none">
