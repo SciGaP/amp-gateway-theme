@@ -1,5 +1,5 @@
 <div>
-  <h1>  Welcome to AMPGateway for Atomic and Molecular Physics </h1>
+  <h1>  <center> Welcome to AMPGateway for Atomic and Molecular Physics </center> </h1>
       <p style="color:#cccccc;">
       <!-- h2>Welcome!</h2 -->
       </p>
