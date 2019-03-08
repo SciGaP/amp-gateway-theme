@@ -37,12 +37,14 @@
       <hr/>
       <!-- <button class="btn btn-primary btn-lg">Accelerate Research</button> -->
       <p style="font-size:18px; margin-top:20px;">
-         <center> The B-Spline R_matrix (BSR), Convergent Close Coupling (CCC), and UK R-Matrix software suites provide methods 
-         and algorithms to compute electron scattering cross sections and perturbative photo-electron cross sections
-         from atomic and molecular targets.  Process include excitation, ionization, photoionization and photodetachment
-         in first order perturbation theory.  The XChem and tRecX software suites extend the capabilities to 
-         time dependent, intense  electromagnetic fields and enable studies of ultrafast processes in the UV and IR 
-         spectrum. <\center>  
+         The B-Spline R_matrix (BSR), Convergent Close Coupling (CCC), and
+	 UK R-Matrix software suites provide methods and algorithms to compute
+	 electron scattering cross sections and perturbative photo-electron cross sections
+         from atomic and molecular targets.  Process include excitation, ionization,
+	 photoionization and photodetachment in first order perturbation theory.
+	 The XChem and tRecX software suites extend the capabilities to time dependent,
+	 intense  electromagnetic fields and enable studies of ultrafast processes in
+	 the UV and IR spectrum.   
       </p>
       <p style="font-size:18px; margin-top:20px;">
       
