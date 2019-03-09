@@ -7,8 +7,8 @@
   <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/AMPGatewayThemes_pvs.png" width="100%" height="100%"/>
   <video controls width="250">
 
-    <source src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/movie-R1.6-300eV-1e16-20oc-perp.mov-desktop.m4v
-            type="video/mp4">
+    <source src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/ScatteringMovie.webm
+            type="video/webm">
 
     Sorry, your browser doesn't support embedded videos.
 </video>
