@@ -6,7 +6,7 @@
       <hr/>
   <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/AMPGatewayThemes.png" width="100%" height="100%"/>
 
-<video controls class="video-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/movie.mp4" width="50%" height="50%">
+<video class="video-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/movie.mp4" width="50%" height="50%">
 
    <h1>  <center> A Movie of Ionization of H_2 Ion in Field </center> </h1>
           <p style="color:#cccccc;">
