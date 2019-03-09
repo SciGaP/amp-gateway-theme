@@ -4,8 +4,14 @@
       <!-- h2>Welcome!</h2 -->
       </p>
       <hr/>
+  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/AMPGatewayThemes-pvs.png" width="100%" height="100%"/>
+  <video controls width="250">
 
-  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/AMPGatewayThemes.png" width="100%" height="100%"/>
+    <source src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/movie-R1.6-300eV-1e16-20oc-perp.mov-desktop.m4v
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
   <!--
     <h1>Hero Image</h1>
     <h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
