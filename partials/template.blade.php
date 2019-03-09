@@ -7,7 +7,13 @@
   <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/AMPGatewayThemes.png" width="100%" height="100%"/>
 
 <video controls class="video-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/movie.mp4" width="50%" height="50%">
+
    <h1>  <center> A Movie of Ionization of H_2 Ion in Field </center> </h1>
+          <p style="color:#cccccc;">
+        <!-- h2>Welcome!</h2 -->
+        </p>
+        <hr/>
+
   <!--
     <h1>Hero Image</h1>
     <h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
