@@ -7,7 +7,7 @@
   <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/AMPGatewayThemes.png" width="100%" height="100%"/>
 
 
-<h1> <center> <font color="red"> H<sup>+ <\sup> <sub>2<\sub> Molecular Ion in Strong, Ultrafast Electromagnetic Field<\font> </center> </h1>
+<h1> <center> <font color="red"> <p> H<sup>+<\sup><\p><p><sub>2<\sub><\p> Molecular Ion in Strong, Ultrafast Electromagnetic Field<\font> </center> </h1>
  <center> <video controls class="video-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/movie.mp4" width="40%" height="40%"> <\center>
   <!--
     <h1>Hero Image</h1>
