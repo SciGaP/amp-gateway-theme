@@ -4,7 +4,7 @@
       <!-- h2>Welcome!</h2 -->
       </p>
       <hr/>
-  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/AMPGatewayThemes_pvs3.png" width="100%" height="100%"/>
+  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/AMPGatewayThemes.png" width="100%" height="100%"/>
 
 <video controls class="video-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/movie.mp4" width="50%" height="50%">
 
