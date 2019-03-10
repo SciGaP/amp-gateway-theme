@@ -9,7 +9,7 @@
 
 <h1> <center> <font color="red"> H<sup>+</sup><sub>2</sub> Molecular Ion in Strong, Ultrafast Electromagnetic Field><\font> </center> </h1>
  <center> <video controls class="video-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/movie.mp4" width="40%" height="40%"> <\center>
-<font color="black"><\font><\sub>
+<font color="black"><\font>
   <!--
     <h1>Hero Image</h1>
     <h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
