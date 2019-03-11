@@ -5,7 +5,6 @@
       </p>
       <hr/>
   <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/AMPGatewayThemes_pvs4.png" width="100%" height="100%"/>
-<font color="black"><\font>
   <!--
     <h1>Hero Image</h1>
     <h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
@@ -19,6 +18,7 @@
  <center> <video controls class="video-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/movie.mp4" width="40%" height="40%"> <\center>
 <hr/>
 </div>
+<font color="black"><\font>
 <!-- div class="col-md-12 breathing-space" -->
   <div class="row">
     <!-- 
