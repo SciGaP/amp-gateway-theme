@@ -6,8 +6,8 @@
       <hr/>
   <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/AMPGatewayThemes_pvs4.png" width="100%" height="100%"/>
       <p style="color:#cccccc;"> </p> </hr>
-<h2> <center> <font color="red"> H<sup>+</sup><sub>2</sub> Molecular Ion in Strong, Ultrafast Electromagnetic Field </center> </h2>
- <center> <video controls class="video-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/movie.mp4" width="40%" height="40%"> <\center>
+<!-- h2> <center> <font color="red"> H<sup>+</sup><sub>2</sub> Molecular Ion in Strong, Ultrafast Electromagnetic Field </center> </h2>
+ <center> <video controls class="video-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/movie.mp4" width="40%" height="40%"> <\center -->
 <font color="black"><\font>
   <!--
     <h1>Hero Image</h1>
@@ -16,6 +16,9 @@
     <p><a class="btn btn-primary btn-large">Learn more</a></p>
     -->
 </div>
+      <p style="color:#cccccc;"> </p> </hr>
+<h2> <center> <font color="red"> H<sup>+</sup><sub>2</sub> Molecular Ion in Strong, Ultrafast Electromagnetic Field </center> </h2>
+ <center> <video controls class="video-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/movie.mp4" width="40%" height="40%"> <\center>
 <!-- div class="col-md-12 breathing-space" -->
   <div class="row">
     <!-- 
