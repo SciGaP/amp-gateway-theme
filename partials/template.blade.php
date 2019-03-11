@@ -66,7 +66,6 @@
         The codes are deployed on XSEDE HPC systems such as Comet, Stampede2 and Bridges.
       </p>
       
-      <\font>
       <div class="col-md-6 credits">
         <div class="thumbnail" style="border:none">
         <!--
