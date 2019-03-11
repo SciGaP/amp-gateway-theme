@@ -19,7 +19,7 @@
  <center> <video controls class="video-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/movie.mp4" width="40%" height="40%"> <\center>
 <hr/>
 </div>
-<font color="black"><\font>
+<font color="black">
 <!-- div class="col-md-12 breathing-space" -->
   <div class="row">
     <!-- 
@@ -61,6 +61,7 @@
 	 intense  electromagnetic fields and enable studies of ultrafast processes in
 	 the UV and IR spectrum.   
       </p>
+      <\font>
       <p style="font-size:18px; margin-top:20px;">
       
         The codes are deployed on XSEDE HPC systems such as Comet, Stampede2 and Bridges.
