@@ -4,7 +4,8 @@
 
     <h4>Documentation</h4>
     <p style="font-size:18px; margin-top:20px;" align="left">
-     Please refer to
+     The documentaion now is pretty barebones and refers back to the web pages of the individual packages.  This will
+     be updated in the near furure.  For now please refer to
      <p> <a href="http://itp.curtin.edu.au/research/">Convergent Close-Coupling (CCC) method </a> </p>
      <p> <a href="https://www.xchem.uam.es/xchem/?tag=xchem">XChem: The ab initio Solution for Multichannel Scattering Problems </a></p>
      <p> <a href="https://trecx.physik.lmu.de/home.html"> tRecX: time-dependent Recursive indeXing </a> </p>
