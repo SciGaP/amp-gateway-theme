@@ -12,8 +12,7 @@
      <p> <a href="http://cpc.cs.qub.ac.uk/summaries/ADWY"> Atomic continuum processes using the B-spline R-matrix method </a> </p>
      <p> <a href="https://drive.google.com/open?id=0B6dM3u6iD10RMGRYTHI4TEVLNW8"> MESA: Electronic structure and scattering </a> </p>
 
-     <p> for more information. </p>
-
-    </p>
+<p style="font-size:18px; margin-top:20px;" align="left">
+For more information. </p>
 
 </div>
