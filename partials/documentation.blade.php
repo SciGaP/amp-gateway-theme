@@ -6,7 +6,7 @@
     <p style="font-size:18px; margin-top:20px;" align="left">
      The documentaion now is pretty barebones and refers back to the web pages of the individual packages.  This will
      be updated in the near furure.  For now please refer to
-    <ul>
+    <ul style="font-size:18px>
      <li> <a href="http://itp.curtin.edu.au/research/">Convergent Close-Coupling (CCC) method </a> </li>
 
      <li> <a href="https://www.xchem.uam.es/xchem/?tag=xchem">XChem: The ab initio Solution for Multichannel Scattering Problems </a></li>
