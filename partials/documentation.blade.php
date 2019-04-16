@@ -6,13 +6,15 @@
     <p style="font-size:18px; margin-top:20px;" align="left">
      The documentaion now is pretty barebones and refers back to the web pages of the individual packages.  This will
      be updated in the near furure.  For now please refer to
-     <p> <a href="http://itp.curtin.edu.au/research/">Convergent Close-Coupling (CCC) method </a> </p>
-     <p> <a href="https://www.xchem.uam.es/xchem/?tag=xchem">XChem: The ab initio Solution for Multichannel Scattering Problems </a></p>
-     <p> <a href="https://trecx.physik.lmu.de/home.html"> tRecX: time-dependent Recursive indeXing </a> </p>
-     <p> <a href="http://cpc.cs.qub.ac.uk/summaries/ADWY"> Atomic continuum processes using the B-spline R-matrix method </a> </p>
-     <p> <a href="https://drive.google.com/open?id=0B6dM3u6iD10RMGRYTHI4TEVLNW8"> MESA: Electronic structure and scattering </a> </p>
+    <ul>
+     <li> <a href="http://itp.curtin.edu.au/research/">Convergent Close-Coupling (CCC) method </a> </li>
+>
+     <li> <a href="https://www.xchem.uam.es/xchem/?tag=xchem">XChem: The ab initio Solution for Multichannel Scattering Problems </a></li>
+     <li> <a href="https://trecx.physik.lmu.de/home.html"> tRecX: time-dependent Recursive indeXing </a> </li>
+     <li> <a href="http://cpc.cs.qub.ac.uk/summaries/ADWY"> Atomic continuum processes using the B-spline R-matrix method </a> </li>
+     <li> <a href="https://drive.google.com/open?id=0B6dM3u6iD10RMGRYTHI4TEVLNW8"> MESA: Electronic structure and scattering </a> </li>
 
 <p style="font-size:18px; margin-top:20px;" align="left">
-For more information. </p>
+for more information. </p>
 
 </div>
