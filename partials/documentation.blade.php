@@ -4,7 +4,7 @@
 
     <h4>Documentation</h4>
     <p style="font-size:18px; margin-top:20px;" align="left">
-     The documentaion now is pretty barebones and refers back to the web pages of the individual packages.  This will
+     The documentation now is pretty barebones and refers back to the web pages of the individual packages.  This will
      be updated in the near furure.  For now please refer to
     <ul style="font-size:18px">
      <li> <a href="http://itp.curtin.edu.au/research/">Convergent Close-Coupling (CCC) method </a> </li>
