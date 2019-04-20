@@ -1,4 +1,5 @@
 <div class="container">
+<h2 class="text-center">The People</h2>
   <h2 class="text-center">Training and Documentation</h2>
     <hr class="separation-line blue-bg"/>
 
