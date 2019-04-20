@@ -52,14 +52,7 @@
       <hr/>
       <!-- <button class="btn btn-primary btn-lg">Accelerate Research</button> -->
       <p style="font-size:18px; margin-top:20px;">
-         The B-Spline R_matrix (BSR), Convergent Close Coupling (CCC), and
-	 UK R-Matrix software suites provide methods and algorithms to compute
-	 electron scattering cross sections and perturbative photo-electron cross sections
-         from atomic and molecular targets.  Process include excitation, ionization,
-	 photoionization and photodetachment in first order perturbation theory.
-	 The XChem and tRecX software suites extend the capabilities to time dependent,
-	 intense  electromagnetic fields and enable studies of ultrafast processes in
-	 the UV and IR spectrum.   
+         The AMP gateway currently hosts the B-Spline R_matrix (BSR), Convergent Close Coupling (CCC), XChem, tRecX, UK R-Matrix and Mesa software suites.  These codes provide methods and algorithms to compute electron scattering cross sections and perturbative photo-electron cross sections from atomic and molecular targets and to solve the time-dependent Schrodinger exposed to strong, ultra-fast electromagnetic(EM) radiation. The BSR and CCC codes are designed to treat excitation, ionization, and photoionization and photodetachment in first order perturbation theory in atomic and for CCC very small molecules. The UK R-matrix code is capable of treating excitation and photoionization of small to medium sized polyatomic molecules.  The XChem and tRecX software suites extend the capabilities to time dependent, intense EM fields and enable studies of ultrafast processes in the UV and IR spectrum. Mesa is a general electronic structure package which was extended to include electron scattering and photoionization processes via the complex Kohn variational method.
       </p>
       <p style="font-size:18px; margin-top:20px;">
       
