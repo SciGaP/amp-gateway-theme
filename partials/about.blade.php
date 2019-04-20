@@ -3,8 +3,8 @@
   <p style="font-size:18px; margin-top:20px;" align="left">
 The scientists involved in this project have been active researchers in computational atomic and molecular physics for many years and have been ably assisted by Dr Sudhakar Pamidighantam, a theoretical chemist by training, who is part of the NSF XSEDE ECSS team.  The members are;
 <ul style="font-size:18px">
- <li> Dr Barry I. Schneider, Applied and Computational Mathematics Division, National Instoitute of Standards and Technology, Gaithersburg, MD 20899 USA <\li>
- <li> Prof. Klaus Bartschat, Dept. of Physics and Astronomy, Drake unioversity, Des Moines, IA, USA <\li>
+ <li> Dr Barry I. Schneider, Applied and Computational Mathematics Division, National Instoitute of Standards and Technology, Gaithersburg, MD 20899 USA </li>
+ <li> Prof. Klaus Bartschat, Dept. of Physics and Astronomy, Drake unioversity, Des Moines, IA, USA </li>
  <hr class="separation-line blue-bg"/>
   <h2 class="text-center">Training and Documentation</h2>
     <hr class="separation-line blue-bg"/>
