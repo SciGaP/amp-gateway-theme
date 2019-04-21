@@ -1,7 +1,7 @@
 <div class="container">
 <hr class="separation-line blue-bg"/>
 <h2 class="text-center">The People</h2>
-<   hr class="separation-line blue-bg"/>
+<hr class="separation-line blue-bg"/>
   <p style="font-size:18px; margin-top:20px;" align="left">
 The scientists involved in this project have been active researchers in computational atomic and molecular physics for many years and have been ably assisted by Dr Sudhakar Pamidighantam, a theoretical chemist by training, who is part of the NSF XSEDE ECSS team.  The members are;
 <ul style="font-size:18px">
