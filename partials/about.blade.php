@@ -7,9 +7,13 @@ The scientists involved in this project have been active researchers in computat
 <ul style="font-size:18px">
  <li> Dr Barry I. Schneider, Applied and Computational Mathematics Division, National Instoitute of Standards and Technology, Gaithersburg, MD 20899, USA </li>
  <li> Prof. Klaus Bartschat, Dept. of Physics and Astronomy, Drake University, Des Moines, IA, 50311, USA </li>
+<li> Dr. Oleg Zatsarinny, Dept. of Physics and Astronomy, Drake University, Des Moines, IA, 50311, USA </li>
  <li> Prof. Igor Bray, Dept. of Physics and Astronomy, Curtin University, Perth, Western Australia  ,6845 </li>
  <li> Prof. Fernando Martin, Dept. of Chemistry, Universidad Autónoma de Madrid, Cantoblanco 28049 Madrid, Spain </li>
-<li> Prof. Armin Scrinzi, Faculty of Phusics, Ludwig-Maximillians Universität, München, Germany </li>
+<li> Dr. Markus Klinker, Dept. of Chemistry, Universidad Autónoma de Madrid, Cantoblanco 28049 Madrid, Spain </li>
+<li> Prof. Armin Scrinzi, Faculty of Physics, Ludwig-Maximilians Universität, München, Germany </li>
+<li> Prof. Jonathan Tennyson, Dept. of Physics, University College London, Gower Street, London, WC1E 6BT, UK </li>
+<li> Prof. Jimena D. Gorfinkiel, Faculty of Science,Technology, Engineering and Mathematics, Open University, Milton Keynes MK7 6AA, UK</li>
  <hr class="separation-line blue-bg"/>
   <h2 class="text-center">Training and Documentation</h2>
     <hr class="separation-line blue-bg"/>
