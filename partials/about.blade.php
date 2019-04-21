@@ -9,6 +9,7 @@ The scientists involved in this project have been active researchers in computat
  <li> Prof. Klaus Bartschat, Dept. of Physics and Astronomy, Drake University, Des Moines, IA, 50311, USA </li>
  <li> Prof. Igor Bray, Dept. of Physics and Astronomy, Curtin University, Perth, Western Australia  ,6845 </li>
  <li> Prof. Fernando Martin, Dept. of Chemistry, Universidad Autónoma de Madrid, Cantoblanco 28049 Madrid, Spain </li>
+<li> Prof. Armin Scrinzi, Faculty of Phusics, Ludwig-Maximillians Universität, München, Germany </li>
  <hr class="separation-line blue-bg"/>
   <h2 class="text-center">Training and Documentation</h2>
     <hr class="separation-line blue-bg"/>
