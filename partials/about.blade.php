@@ -13,7 +13,7 @@ The scientists involved in this project have been active researchers in computat
 <li> Dr. Markus Klinker, Dept. of Chemistry, Universidad Autónoma de Madrid, Cantoblanco 28049 Madrid, Spain </li>
 <li> Prof. Armin Scrinzi, Faculty of Physics, Ludwig-Maximilians Universität, München, Germany </li>
 <li> Prof. Jonathan Tennyson, Dept. of Physics, University College London, Gower Street, London, WC1E 6BT, UK </li>
-<li> Prof. Jimena D. Gorfinkiel, Faculty of Science,Technology, Engineering and Mathematics, Open University, Milton Keynes MK7 6AA, UK</li>
+<li> Prof. Jimena D. Gorfinkiel, Faculty of Science,Technology, Engineering and Mathematics, Open University, Milton Keynes MK7 6AA, UK</li> </p>
  <hr class="separation-line blue-bg"/>
   <h2 class="text-center">Our Motivation and Objectives</h2>
     <hr class="separation-line blue-bg"/>
