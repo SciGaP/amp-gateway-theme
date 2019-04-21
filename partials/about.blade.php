@@ -30,9 +30,12 @@ The scientists involved in this project have been active researchers in computat
      portability, documentation, ease of input,as well as making sure the codes can run on a
      variety of architectures.  Doing this via the Science Gateways arm of the NSF XSEDE project
      seemed a natural avenue.  We applied to the program for a startup award, which was granted,
-     and began our efforts in earnest in July of 2018.
-   <hr class="separation-line blue-bg"/>
+     and began our efforts in earnest in July of 2018
 
+<hr class="separation-line blue-bg"/>
+<h2 class="text-center">Current Capabilities</h2>
+<hr class="separation-line blue-bg"/>
+<p style="font-size:18px; margin-top:20px;" align="left">
       AMPGateway is an online portal that hosts a suite of codes being developed by the atomic and molecular physics 
       community to study a variety of problems involving the time-independent and time-dependent Schrödinger equation. 
       They include the calculation of cross sections for electron scattering and photoionization from atoms and molecules
