@@ -57,8 +57,7 @@ th, td {
 </head>
 <body>
 
-<h2 class="text-center">Status of AMPGateway Software ( as of) </h2>
-<p>as of April 22, 2019</p>
+<h2 class="text-center">Status of AMPGateway Software ( 04/22/2019 ) </h2>
 
 <table style="width:100%">
   <caption>AMP Software Suites on AMPGateway.org</caption>
@@ -114,13 +113,13 @@ th, td {
     <td>Not User Ready</td>
   </tr>
    <tr>
-    <td>CCModified</td>
+    <td>CCCModified</td>
     <td>1.0</td>
     <td>   </td>
     <td>Deployed</td>
     <td>Deployed</td>
     <td>Deployed</td>
-    <td>MPI</td>
+    <td>OpenMp/MPI</td>
     <td>Ready</td>
     <td>User Ready</td>
   </tr>
