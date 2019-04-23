@@ -119,7 +119,7 @@ th, td {
     <td>Deployed</td>
     <td>Deployed</td>
     <td>Deployed</td>
-    <td>OpenMp/MPI</td>
+    <td>OpenMP/MPI</td>
     <td>Ready</td>
     <td>User Ready</td>
   </tr>
