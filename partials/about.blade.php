@@ -57,7 +57,7 @@ th, td {
 </head>
 <body>
 
-<h2>Status of AMPGateway Software </h2>
+<h2 class="text-center">Status of AMPGateway Software </h2>
 <p>as of April 22, 2019</p>
 
 <table style="width:100%">
