@@ -44,5 +44,108 @@ The scientists involved in this project have been active researchers in computat
       well as reactive collision.  Many of these processes are of importance in astrophysics, fusion research, 
       lighting, and the etching of silicon for computer chip production.  
     <p></p>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+</style>
+</head>
+<body>
+
+<h2>Status of AMPGateway Software </h2>
+<p>as of April 22, 2019</p>
+
+<table style="width:100%">
+  <caption>AMP Software Suites on AMPGateway.org</caption>
+  <tr>
+    <th>Software</th>
+    <th>Version</th>
+    <th>Source</th>
+    <th colspan="3">Status on HPC</th>
+    <th colspan="2"> Status on the Gateway</th>
+    <th>Remarks</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th>Distribution</th>
+    <th>Comet</th>
+    <th>Stampede2</th>
+    <th>Bridges</th>
+    <th>Deployment</th>
+    <th>Interface</th>
+  </tr>
+  <tr>
+    <td>BSR</td>
+    <td>1.0</td>
+    <td>   </td>
+    <td>Deployed</td>
+    <td>Deployed</td>
+    <td>Deployed</td>
+    <td>Serial</td>
+    <td>Ready</td>
+    <td>User Ready</td>
+  </tr>
+    <tr>
+    <td>BSR3</td>
+    <td>3.0</td>
+    <td>   </td>
+    <td>To be Deployed</td>
+    <td>Deployed</td>
+    <td>To be Deployed</td>
+    <td>MPI</td>
+    <td>To be Ready</td>
+    <td>Not User Ready</td>
+  </tr>
+   <tr>
+    <td>XCHEM</td>
+    <td>3.0</td>
+    <td>   </td>
+    <td>Deployed</td>
+    <td>Deployed</td>
+    <td>To be Deployed</td>
+    <td>OpenMP</td>
+    <td>Testing</td>
+    <td>Not User Ready</td>
+  </tr>
+   <tr>
+    <td>CCModified</td>
+    <td>1.0</td>
+    <td>   </td>
+    <td>Deployed</td>
+    <td>Deployed</td>
+    <td>Deployed</td>
+    <td>MPI</td>
+    <td>Ready</td>
+    <td>User Ready</td>
+  </tr>
+   <tr>
+    <td>tRecX</td>
+    <td>1.0</td>
+    <td>   </td>
+    <td>Deployed</td>
+    <td>Deployed</td>
+    <td>Deployed</td>
+    <td>Serial</td>
+    <td>Ready</td>
+    <td>User Ready</td>
+  </tr>
+   <tr>
+    <td>MESA</td>
+    <td>1.0</td>
+    <td>   </td>
+    <td>Deployed</td>
+    <td>Deployed</td>
+    <td>Deployed</td>
+    <td>To be deployed</td>
+    <td>To be built</td>
+    <td>Expected May 2019</td>
+  </tr>
+</table>
 
 </div>
