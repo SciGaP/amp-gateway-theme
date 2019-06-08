@@ -134,17 +134,6 @@ th, td {
     <td>Ready</td>
     <td>User Ready</td>
   </tr>
-   <tr>
-    <td>MESA</td>
-    <td>1.0</td>
-    <td>   </td>
-    <td>Deployed</td>
-    <td>Deployed</td>
-    <td>Deployed</td>
-    <td>To be deployed</td>
-    <td>To be built</td>
-    <td>Expected May 2019</td>
-  </tr>
 </table>
 
 </div>
