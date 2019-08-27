@@ -1,7 +1,7 @@
 <div>
   <h1>  <center> Welcome to AMPGateway for Atomic and Molecular Physics </center> </h1>
       <p style="color:#cccccc;">
-      <!-- h2>Welcome!</h2 -->
+      <h2>Announcement: <a href="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/AMP-Gateway-Workshop-Dec2019-at-NIST.pdf"> AMP Gateway workshop from December 11th to 13th 2019 at NIST</a></h2>
       </p>
       <hr/>
   <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/AMPGatewayThemes.png" width="100%" height="100%"/>
